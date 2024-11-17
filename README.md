@@ -2,12 +2,10 @@
 
 I am the developer of the *quartz* notes app and run the DoubleDotStudios YouTube channel.
 
-I use [EndeavourOS](https://endeavouros.com/) \(an [Arch Linux](https://archlinux.org/) based distro) with [Hyprland](https://hyprland.org/)
-and [Catppuccin Mocha](https://catppuccin.com/) as my theme for my entire setup!
+I use [EndeavourOS](https://endeavouros.com/) \(an [Arch Linux](https://archlinux.org/) based distro) with the [Budgie Desktop](https://buddiesofbudgie.org/), [Tokyo Night](https://github.com/Fausto-Korpsvart/Tokyonight-GTK-Theme)
+and [Catppuccin Mocha](https://catppuccin.com/) as my themes for my entire setup!
 
 ---
----
-![hyprland](https://code.hyprland.org/assets/img/logo.png)
 
 ---
 ### Sites
