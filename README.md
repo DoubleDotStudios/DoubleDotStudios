@@ -6,6 +6,9 @@ I use [EndeavourOS](https://endeavouros.com/) \(an [Arch Linux](https://archlinu
 and [Catppuccin Mocha](https://catppuccin.com/) as my themes for my entire setup!
 
 ---
+<p align="center">
+  <img src="https://buddiesofbudgie.org/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.7b4a8e61.svg&w=48&q=75">
+</p>
 
 ---
 ### Sites
