@@ -13,21 +13,19 @@
          height="100px" alt="Catppuccin Logo">
 </p>
 
-
-<h3 align="center">Repos</h3>
 <hr>
 <p align="center"><a href="https://github.com/DoubleDotStudios/Quartz"><em>quartz</em> notes</a></p>
 <p align="center"><a href="https://github.com/DoubleDotStudios/i3-dotfiles">Dotfiles</a></p>
 
+<h3 align="center">Repos</h3>
 
-<h3 align="center">Socials</h3>
 <hr>
 <p align="center"><a href="https://www.reddit.com/user/DoubleDotStudios/">Reddit</a></p>
 <p align="center"><a href="https://youtube.com/@Dev-DDS">YouTube</a></p>
 
+<h3 align="center">Socials</h3>
+
+<hr>
+<p align="center">✉️ Email: <a href="mailto:doubledotgames.contact@gmail.com">doubledotgames.contact@gmail.com</a></p>
 
 <h3 align="center">Contact Info</h3>
-<hr>
-<p align="center">
-    ✉️ Email: <a href="mailto:doubledotgames.contact@gmail.com">doubledotgames.contact@gmail.com</a>
-</p>
