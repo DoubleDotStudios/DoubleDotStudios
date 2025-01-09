@@ -1,13 +1,9 @@
-<h2 align="center">
-Hi, I'm Double Dot Studios!
-<p align="center">
-I am the developer of the *quartz* notes app and run the DoubleDotStudios YouTube channel.
-<p align="center">
-I use [EndeavourOS](https://endeavouros.com/) \(an [Arch Linux](https://archlinux.org/) based distro), [i3wm](https://i3wm.org/), [picom](https://github.com/yshui/picom) for my system and [Catppuccin Mocha](https://catppuccin.com/) as my theme.
+<h2 align="center"> Hi, I'm Double Dot Studios! </h2>
+<p align="center"> I am the developer of the *quartz* notes app and run the DoubleDotStudios YouTube channel. </p>
+<p align="center"> I use [EndeavourOS](https://endeavouros.com/) \(an [Arch Linux](https://archlinux.org/) based distro), [i3wm](https://i3wm.org/), [picom](https://github.com/yshui/picom) for my system and [Catppuccin Mocha](https://catppuccin.com/) as my theme. </p>
 
 ---
-<p align="center">
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2Fcatppuccin%2Fcatppuccin%2Fmain%2Fassets%2Flogos%2Fexports%2F1544x1544_circle.png&f=1&nofb=1&ipt=afcb64bebc8b9f4eea71269090fc5006f7a98936ec756e7143d7e211794ef416&ipo=images" height=100px>
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2Fcatppuccin%2Fcatppuccin%2Fmain%2Fassets%2Flogos%2Fexports%2F1544x1544_circle.png&f=1&nofb=1&ipt=afcb64bebc8b9f4eea71269090fc5006f7a98936ec756e7143d7e211794ef416&ipo=images" height=100px align="center">
 
 ---
 ### Sites
