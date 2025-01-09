@@ -1,5 +1,5 @@
 <h2 align="center"> Hi, I'm Double Dot Studios! </h2>
-<p align="center"> I am the developer of the *quartz* notes app and run the DoubleDotStudios YouTube channel. </p>
+<p align="center"> I am the developer of the <em>quartz</em> notes app and run the DoubleDotStudios YouTube channel. </p>
 <p align="center"> I use [EndeavourOS](https://endeavouros.com/) \(an [Arch Linux](https://archlinux.org/) based distro), [i3wm](https://i3wm.org/), [picom](https://github.com/yshui/picom) for my system and [Catppuccin Mocha](https://catppuccin.com/) as my theme. </p>
 
 ---
