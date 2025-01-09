@@ -16,11 +16,9 @@
 <hr>
 
 <h3 align="center">Sites</h3>
-<ul align="center">
-    <li>✨ <em>quartz</em> notes: <a href="https://github.com/DoubleDotStudios/Quartz">https://github.com/DoubleDotStudios/Quartz</a></li>
-    <li>📝 Dotfiles: <a href="https://github.com/DoubleDotStudios/dotfiles">https://github.com/DoubleDotStudios/dotfiles</a></li>
-    <li>📺 YouTube: <a href="https://youtube.com/@DoubleDotStudio">https://youtube.com/@DoubleDotStudio</a></li>
-</ul>
+<p align="center">✨ <em>quartz</em> notes: <a href="https://github.com/DoubleDotStudios/Quartz">https://github.com/DoubleDotStudios/Quartz</a></p>
+<p align="center">📝 Dotfiles: <a href="https://github.com/DoubleDotStudios/dotfiles">https://github.com/DoubleDotStudios/dotfiles</a></p>
+<p align="center">📺 YouTube: <a href="https://youtube.com/@DoubleDotStudio">https://youtube.com/@DoubleDotStudio</a></p>
 
 <hr>
 
