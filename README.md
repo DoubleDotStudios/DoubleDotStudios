@@ -1,4 +1,4 @@
-Hi, I'm Double Dot Studios!
+## Hi, I'm Double Dot Studios!
 I am the developer of the *quartz* notes app and run the DoubleDotStudios YouTube channel. 
 I use [EndeavourOS](https://endeavouros.com/) \(an [Arch Linux](https://archlinux.org/) based distro), [i3wm](https://i3wm.org/), [picom](https://github.com/yshui/picom) for my system and [Catppuccin Mocha](https://catppuccin.com/) as my theme. 
 
@@ -20,7 +20,7 @@ I use [EndeavourOS](https://endeavouros.com/) \(an [Arch Linux](https://archlinu
 ✉️ Email: doubledotgames.contact@gmail.com
 
 <style>
-  p {
+  * {
     tetx-align: center
   }
 </style>
