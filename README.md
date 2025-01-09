@@ -1,4 +1,5 @@
-## Hi, I'm Double Dot Studios!
+<h2 align="center">
+Hi, I'm Double Dot Studios!
 <p align="center">
 I am the developer of the *quartz* notes app and run the DoubleDotStudios YouTube channel.
 <p align="center">
