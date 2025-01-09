@@ -22,7 +22,7 @@
 <hr>
 
 <h3 align="center">Socials</h3>
-<p align="center">Reddit: <a href="https://www.reddit.com/user/DoubleDotStudios/">https://www.reddit.com/user/DoubleDotStudios/</a></p>
+<p align="center">Reddit: <a href="https://www.reddit.com/user/DoubleDotStudios/">https://reddit.com/user/DoubleDotStudios/</a></p>
 <p align="center">📺 YouTube: <a href="https://youtube.com/@DoubleDotStudio">https://youtube.com/@DoubleDotStudio</a></p>
 
 <hr>
