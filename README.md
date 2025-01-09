@@ -16,14 +16,14 @@
 <hr>
 
 <h3 align="center">Repos</h3>
-<p align="center">✨ <em>quartz</em> notes: <a href="https://github.com/DoubleDotStudios/Quartz">https://github.com/DoubleDotStudios/Quartz</a></p>
+<p align="center"><a href="https://github.com/DoubleDotStudios/Quartz"><em>quartz</em></a></p>
 <p align="center">📝 Dotfiles: <a href="https://github.com/DoubleDotStudios/i3-dotfiles">https://github.com/DoubleDotStudios/dotfiles</a></p>
 
 <hr>
 
 <h3 align="center">Socials</h3>
-<p align="center">Reddit: <a href="https://www.reddit.com/user/DoubleDotStudios/">u/DoubleDotStudios</a></p>
-<p align="center">📺 YouTube: <a href="https://youtube.com/@Dev-DDS">@Dev-DDS</a></p>
+<p align="center"><a href="https://www.reddit.com/user/DoubleDotStudios/">Reddit</a></p>
+<p align="center"><a href="https://youtube.com/@Dev-DDS">YouTube</a></p>
 
 <hr>
 
