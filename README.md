@@ -9,7 +9,7 @@
 <hr>
 
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/DoubleDotStudios">
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=DoubleDotStudios&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=cba6f7&border_color=cba6f7&hide=contribs" />
 </a>
 </div>
