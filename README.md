@@ -8,10 +8,11 @@
 
 <hr>
 
-<p align="center">
-    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2Fcatppuccin%2Fcatppuccin%2Fmain%2Fassets%2Flogos%2Fexports%2F1544x1544_circle.png&f=1&nofb=1&ipt=afcb64bebc8b9f4eea71269090fc5006f7a98936ec756e7143d7e211794ef416&ipo=images" 
-         height="100px" alt="Catppuccin Logo">
-</p>
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=DoubleDotStudios&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=cba6f7&border_color=cba6f7&hide=contribs" />
+</a>
+</div>
 
 <hr>
 <h3 align="center">Repos</h3>
