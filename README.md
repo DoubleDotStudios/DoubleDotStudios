@@ -1,6 +1,6 @@
 <h2 align="center">Hi, I'm Double Dot Studios!</h2>
 <p align="center">
-    I am the developer of the <em>quartz</em> notes app and run the DoubleDotStudios YouTube channel.<br>
+    I am the developer of the <em>quartz</em> notes app, Linkage programming language and run the DoubleDotStudios YouTube channel.<br>
     I use <a href="https://endeavouros.com/">EndeavourOS</a> (an <a href="https://archlinux.org/">Arch Linux</a> based distro), 
     <a href="https://i3wm.org/">i3wm</a>, <a href="https://github.com/yshui/picom">picom</a> for my system and 
     <a href="https://catppuccin.com/">Catppuccin Mocha</a> as my theme.
