@@ -18,6 +18,7 @@
 <h3 align="center">Repos</h3>
 <p align="center"><a href="https://github.com/DoubleDotStudios/Quartz"><em>quartz</em> notes</a></p>
 <p align="center"><a href="https://github.com/DoubleDotStudios/i3-dotfiles">Dotfiles</a></p>
+<p align="center"><a href="https://github.com/DoubleDotStudios/Assets">Game Assets</a></p>
 
 <hr>
 <h3 align="center">Socials</h3>
