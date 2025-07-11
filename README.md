@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Double Dot Studios!</h2>
+<h2 align="center">Hi, I'm vaelixd!</h2>
 <p align="center">
     I am the developer of the <em>quartz</em> notes app, Linkage programming language and run the DoubleDotStudios YouTube channel.<br>
     I use <a href="https://endeavouros.com/">EndeavourOS</a>(an <a href="https://archlinux.org/">Arch Linux</a> based distro) as my distro of choice, 
