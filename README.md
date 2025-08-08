@@ -18,10 +18,7 @@
 <h3 align="center">Tech Stacks</h3>
 
 <div align="center">
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Desktop+Apps&align=center&titleAlign=center&fontFamily=CaskaydiaCove+Nerd+Font&lineCount=1&theme=catppuccin_mocha&bg=%231e1e2e&badge=%23181825&border=%23cba6f7&titleColor=%23cba6f7&line1=tauri%2CTauri%2Cf9e2af%3Bsvelte%2CSvelte%2Cfab387%3Btailwindcss%2Ctailwindcss%2C89b4fa%3B" alt="Desktop Apps" />
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=quartz&align=center&titleAlign=center&fontFamily=CaskaydiaCove+Nerd+Font&lineCount=1&theme=catppuccin_mocha&bg=%231e1e2e&badge=%23181825&border=%23cba6f7&titleColor=%23cba6f7&line1=electron%2CElectron%2C74c7ec%3Breact%2CReact%2C74c7ec%3Btailwindcss%2CTailwindcss%2C89b4fa%3B" alt="quartz" />
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Linkage&align=center&titleAlign=center&fontFamily=CaskaydiaCove+Nerd+Font&lineCount=1&theme=catppuccin_mocha&bg=%231e1e2e&badge=%23181825&border=%23cba6f7&titleColor=%23cba6f7&line1=rust%2CRust%2Cfab387%3B" alt="Linkage" />
-    <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Assets&align=center&titleAlign=center&fontFamily=CaskaydiaCove+Nerd+Font&lineCount=1&theme=catppuccin_mocha&bg=%231e1e2e&badge=%23181825&border=%23cba6f7&titleColor=%23cba6f7&line1=aseprite%2CLibresprite%2Ccba6f7%3B" alt="Assets" />
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Quill+Stack&align=center&titleAlign=center&fontFamily=CaskaydiaCove+Nerd+Font&fontSize=20&lineCount=1&theme=catppuccin_mocha&gap=6&width=540&bg=%231e1e2e&badge=%23181825&border=%23cba6f7&titleColor=%23cba6f7&line1=go%2CGo%2C79d4fd%3Btypescript%2Cts%2C3178c6%3Bwails%2CWails%2Cdf0000%3Bsvelte%2CSvelte%2Cff3e00%3Bdaisyui%2Cdaisyui%2Cffbf45%3Bmeltui%2Cmelt+ui%2Cf7b155%3B" alt="Quill Stack" />
 </div>
 
 <hr>
