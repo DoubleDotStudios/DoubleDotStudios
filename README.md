@@ -15,11 +15,12 @@
 </div>
 
 <hr>
+<!-- 
 <h3 align="center">Tech Stacks</h3>
-
 <div align="center">
 <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Quill+Stack&align=center&titleAlign=center&fontFamily=CaskaydiaCove+Nerd+Font&fontSize=20&lineCount=1&theme=catppuccin_mocha&gap=6&width=540&bg=%231e1e2e&badge=%23181825&border=%23cba6f7&titleColor=%23cba6f7&line1=go%2CGo%2C79d4fd%3Btypescript%2Cts%2C3178c6%3Bwails%2CWails%2Cdf0000%3Bsvelte%2CSvelte%2Cff3e00%3Bdaisyui%2Cdaisyui%2Cffbf45%3Bmeltui%2Cmelt+ui%2Cf7b155%3B" alt="Quill Stack" />
 </div>
+-->
 
 <hr>
 <h3 align="center">Repos</h3>
