@@ -1,5 +1,4 @@
 <h2 align="center">Hi, I'm vaelixd!</h2>
-<i>pronounced vay-licks-d</i>
 <p align="center">
     I am the lead developer of <a href="https://github.com/Songbrid-Project">The Songbird Project</a> and run the <a href="https://youtube.com/@vaelix-dev">vaelixd</a> YouTube channel.
     I use <a href="https://endeavouros.com/">EndeavourOS</a> (an <a href="https://archlinux.org/">Arch Linux</a> based distro) as my daily driver, 
